@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "F:\\bsp\\msp430\\tool\\msp430-gcc-9.3.1.11_win64\\msp430-elf\\include",
+                "${workspaceFolder}/Driver/include",
+                "${workspaceFolder}/Inc"
+            ],
+            "defines": [],
+            "compilerPath": "F:\\bsp\\msp430\\tool\\msp430-gcc-9.3.1.11_win64\\bin\\msp430-elf-gcc.exe",
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
